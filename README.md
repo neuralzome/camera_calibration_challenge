@@ -1,5 +1,5 @@
 # Camera calibration challenge
-From the given dataset obtain the camera intrinsics (i.e. Calibration matrix, distortion parameters) and extrinsics (Relative pose of arducam1 wrt arducam0)
+From the given dataset obtain the camera intrinsic (i.e. Calibration matrix, distortion parameters) and extrinsic (Relative pose of arducam1 wrt arducam0) parameters.
 
 ## Scene description
 * Apriltag 45 to 59 is present of size 0.173m
